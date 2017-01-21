@@ -1,0 +1,6 @@
+[submodule "software"]
+	path = software
+	url = https://github.com/MihaiVisu/SDP2017-Group03-Software.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/MihaiVisu/SDP2017-Group03-Firmware.git
