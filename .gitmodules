@@ -4,3 +4,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/MihaiVisu/SDP2017-Group03-Firmware.git
+[submodule "reports"]
+	path = reports
+	url = https://github.com/MihaiVisu/SDP2017-Group03-Reports.git
